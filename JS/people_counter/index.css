@@ -1,0 +1,29 @@
+body{
+    background-color: gray;
+    font-size: large;
+    display: flex;
+    flex-direction: column;
+    max-width: fit-content;
+    align-items: center;
+}
+
+h1{
+    color: teal;
+    text-decoration:dashed;
+}
+
+h2{
+    
+}
+
+button {
+    font-size: large;
+    margin: 0.2rem;
+    background-color: green;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: greenyellow;
+}
